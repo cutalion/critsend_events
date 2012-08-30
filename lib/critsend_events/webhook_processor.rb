@@ -14,7 +14,7 @@ module CritsendEvents
     private
 
     def constantize(handler)
-      if handler.respond_to?(:constantize) 
+      if handler.respond_to?(:constantize)
         handler.constantize
       else
         Module.const_get(handler)
