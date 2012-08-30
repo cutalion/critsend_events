@@ -1,4 +1,4 @@
-# CritsendEvents
+# CritsendEvents [![Build Status](https://secure.travis-ci.org/cutalion/critsend_events.png)](http://travis-ci.org/cutalion/critsend_events)
 
 Accepts Critsend events with Ruby on Rails.  
 I hope that it will work with any Rack-based application, but I didn't verify that.
