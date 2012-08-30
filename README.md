@@ -1,7 +1,9 @@
 # CritsendEvents
 
-Accepts Critsend events with Ruby on Rails
-[Critsend Event API](http://www.critsend.com/event-api/)
+Accepts Critsend events with Ruby on Rails.  
+I hope that it will work with any Rack-based application, but I didn't verify that.
+
+Check the [Critsend Event API](http://www.critsend.com/event-api/) for reference.
 
 ## Installation
 
